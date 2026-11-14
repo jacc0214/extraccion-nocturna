@@ -1,0 +1,7 @@
+Archivos GLB necesarios:
+
+- revolver.glb  → arma 1 (Revólver)
+- escopeta.glb  → arma 2 (ya incluida)
+- zombie.glb    → modelo del enemigo
+
+Puedes descargar modelos free/CC0 de Quaternius o Sketchfab.
