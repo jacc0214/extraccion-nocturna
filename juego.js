@@ -3,7 +3,7 @@ import { PointerLockControls } from 'three/addons/controls/PointerLockControls.j
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import * as SkeletonUtils from 'three/addons/utils/SkeletonUtils.js';
 
-// --- Configuración ---
+// Configuración 
 const AJUSTES = {
   jugador: { velocidad: 4.8, velocidadBoost: 7.6, duracionBoost: 5.5, radio: 0.38, alturaOjos: 1.65 },
   contactoLetal: 0.95,
@@ -33,7 +33,7 @@ const MAPA = {
   potenciadores: [[0, -85], [0, -150]]
 };
 
-// --- Escena, cámara, luces ---
+// Escena, cámara, luces 
 const escena = new THREE.Scene();
 escena.background = new THREE.Color(0x070b12);
 escena.fog = new THREE.Fog(0x070b12, 5, 48);
@@ -63,7 +63,7 @@ addEventListener('resize', () => {
   render.setSize(innerWidth, innerHeight);
 });
 
-// --- Mundo ---
+// Mundo 
 const obstaculos = [];
 const superficiesSolidas = [];
 
