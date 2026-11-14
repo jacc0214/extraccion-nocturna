@@ -49,7 +49,7 @@ También puedes usar la extensión **Live Server** de VS Code.
 | RF09 | Game Over al contacto                            | Sí |
 | RF10 | Objetos coleccionables (munición + velocidad)    | Sí |
 | RF11 | Dificultad (munición limitada, enemigos rápidos, barreras) | Sí |
-| RF12 | Repositorio + README + video                     | Pendiente de subir |
+| RF12 | Repositorio + README + video                     | si |
 
 ---
 
@@ -105,8 +105,8 @@ extraccion-nocturna/
 ## Recursos externos
 
 - Three.js (MIT) – https://threejs.org/
-- Modelos 3D: ver sección de modelos GLB
-- Texturas de fachadas y calle, y sonidos: generados por código (Canvas + Web Audio)
+- Modelos 3D: https://poly.pizza/m/jBXyHXR6vF
+https://poly.pizza/m/xqEzosAVYX
 
 ---
 
